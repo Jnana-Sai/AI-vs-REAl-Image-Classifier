@@ -13,3 +13,6 @@ Hence the model was trained on 100000 FAKE and 100000 REAL Images. It was tested
 
 ## Why CNN is Used in This Project:
 Convolutional Neural Networks (CNNs) are employed in this project due to their superior ability to handle image data. CNNs excel at recognizing patterns and features in images through their convolutional layers, which apply various filters to the input images to detect edges, textures, and other important details. This makes CNNs particularly well-suited for image classification and recognition tasks. Their architecture, which includes pooling layers to reduce dimensionality and fully connected layers for classification, enables efficient processing and accurate interpretation of visual data. The inherent ability of CNNs to learn spatial hierarchies of features further enhances their effectiveness in tasks involving image data.
+
+## Result:
+The model achieved a F1-score of 0.95 on the test dataset, demonstrating its ability to accurately classify images as either AI-generated or real.
