@@ -16,3 +16,6 @@ Convolutional Neural Networks (CNNs) are employed in this project due to their s
 
 ## Result:
 The model achieved a F1-score of 0.95 on the test dataset, demonstrating its ability to accurately classify images as either AI-generated or real.
+
+## Note:
+The file deploy.py contains the code for web application generated using streamlit.Clone this repo and just run deploy.py (using python -m streamlit run js.py). This will open the website.
