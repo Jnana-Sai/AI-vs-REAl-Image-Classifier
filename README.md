@@ -8,7 +8,7 @@ To ensure uniformity among the images, we resized all of them to a consistent di
  Each 2D matrix within the array separately manages the red, green, and blue pixel components.
 
 ## Data Collection:
-I took help of the https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images dataset available on kaggle. 
+I took help of the https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images dataset available on kaggle along with images from web scraping using selenium, beautifulsoup and pygoogle_image modules of python(In the file web_scraping.py). 
 Hence the model was trained on 100000 FAKE and 100000 REAL Images. It was tested on 20000 images consisting of both real and fake images.
 
 ## Why CNN is Used in This Project:
