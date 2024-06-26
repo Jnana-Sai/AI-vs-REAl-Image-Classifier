@@ -19,6 +19,7 @@ The model achieved a F1-score of 0.93 on the test dataset, demonstrating its abi
 
 ## Note:
 The file deploy.py contains the code for web application generated using streamlit.Clone this repo and just run deploy.py (using python -m streamlit run js.py). This will open the website.
+Check out the live version here - "https://ai-vs-real-image-classifier.streamlit.app/"
 
 ## Team:
  - B Jnana Sai (Jnana-Sai)
